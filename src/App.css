@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+.video-card{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 2%;
+  
+}
+
+.thumbnail{
+  height: 291px;
+  width: 473px;
+  border-radius: 20px;
+}
+
+.video-title{
+  font-size: large;
+  font-weight: 900;
+  margin-bottom: 24px;
+}
+.video-stats{
+  font-size: medium;
+}
+.likes{
+  margin-right: 2%;
+}
+.channel-logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  border: 1px solid;
+  margin-top: 2%;
+}
+.channel-name{
+  font-size: 24px;
+  font-weight: 900;
+  margin-top: 2%;
+}
