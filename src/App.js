@@ -175,6 +175,180 @@ const videos = [
     channelLogoUrl:
       "https://yt3.ggpht.com/ytc/APkrFKbryjyj_VVcvKX3C9A7UWy2UNTTFegUnbyTsrqV=s88-c-k-c0x00ffffff-no-rj",
   },
+  //
+  {
+    id: 11,
+
+    title:
+      "Alada Alada (আলাদা আলাদা) by Anupam Roy |Ardhangini | Jaya,Churni |Kaushik G| Surinder Films",
+
+    thumbnailUrl: "https://www.youtube.com/embed/9XkTZDZtgv0",
+
+    likes: 1500,
+
+    views: 25000,
+
+    channelName: "Surinder  Films",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/Mc_vlcfl8IiIFZLaqmeWedsMWcwlzPZSQVYhEPkysfvRmACFxZeSWLgqoVjqT7jFTNL4TOBVtNk=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 12,
+
+    title:
+      "Jawl Phoring ( জল ফড়িং ) | Hemlock Society | Parambrata | Koel | Silajit | Anupam | Srijit | SVF",
+
+    thumbnailUrl:
+      "https://www.youtube.com/embed/d59zN-ZwX2k?list=RDZAHpsytR1dU",
+
+    likes: 10000,
+
+    views: 25680,
+
+    channelName: "SVF",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/Ilgkzfk9DFjagXRax-MhvbGdK2qTM6_qGdXv-0X8jPCw1WmnyVMR7JXZO4gGgxDPujyeBIdqoQ=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 13,
+
+    title:
+      "Ish Debashish (ইস দেবাশিস) | Official Video | New Bengali Single | Anupam Roy | Joey | SVF Music",
+
+    thumbnailUrl: "https://www.youtube.com/embed/3krzRdtQNxI",
+
+    likes: 11900,
+
+    views: 256680,
+
+    channelName: "SVF",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ytc/APkrFKZM7b3VgN7MEldSDrDUZvZ88QdS5VHVyN0CES1G4A=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 14,
+
+    title:
+      "Pata R Moruddyan |  Shaada Kaalo 2 | Shunlam Tumi | Bengali Band Song  | MusicVideo | Pata R Mor ",
+
+    thumbnailUrl: "https://www.youtube.com/embed/D8AgP6OU910",
+
+    likes: 12539,
+
+    views: 2596680,
+
+    channelName: "INRECO Entertainment ",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ytc/APkrFKZwPLNCB6xXL2EL11A2rP0O2zUBSPaAqNjxTNKJCA=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 15,
+
+    title:
+      "Bibhajon | Rupam Islam | Lockdown Music Video | 2020 | Bibhajon | Rupam Islam | Lockdown Music ",
+
+    thumbnailUrl: "https://www.youtube.com/embed/VI6B0gAALb8",
+
+    likes: 12069,
+
+    views: 96680,
+
+    channelName: "Rupam & Fossil",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ew_PFH2lyTGpoDzZEfqFJaN40zEwMpFqpLoVqfCh4pARV7Wsxa9CFCPZfiQdKNhmXWCxzFej6w=s88-c-k-c0x00ffffff-no-nd-rj",
+  },
+  {
+    id: 16,
+
+    title:
+      "SUDHU TUMI NOY | শুধু তুমি নয় | OGO BODHU SUNDARI | KISHORE KUMAR | ECHO FILMS ",
+
+    thumbnailUrl:
+      "https://www.youtube.com/embed/5z85xjgRXFA?list=RDGMEM916WJxafRUGgOvd6dVJkeQ",
+
+    likes: 25098,
+
+    views: 706956,
+
+    channelName: "ECHO FILM",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ytc/APkrFKbYeoxUItG_1AP6hCY5jYQt8vERFU_JtXGjm7nb=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 17,
+
+    title:
+      "Ei To Jibon | Movie Song | Kishore Kumar | Ogo Bodhu Sundari |Uttam Kumar |Mousumi | Sumitra ",
+
+    thumbnailUrl: "https://www.youtube.com/embed/C_w4z7tsI04",
+
+    likes: 10395,
+
+    views: 896246,
+
+    channelName: "ECHO BENGALI MUZIK",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ytc/APkrFKZqaLClxUGHREOyIWrMeRKkzXMuzJ2yp4-TO7qT=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 18,
+
+    title:
+      "Andho Aaalo Chayate | Kalankini Kankabati | Bengali Movie Song | Mithun, Sharmila Tagore | ",
+
+    thumbnailUrl: "https://www.youtube.com/embed/tBfSnLqnJ0U",
+
+    likes: 10395,
+
+    views: 896246,
+
+    channelName: "Angel Bengali Songs",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/s74QKadi7Z-wVi_Ldz2U3iytcaOjtnX4iGMyNfk3cIZBJVslpFlf0UVqFF25DB8GUr4miNXP=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 19,
+
+    title:
+      "Dhoro Jodi Hothat Sondhye |। ধরো যদি হঠাৎ সন্ধ্যে ।। বাউন্ডুলে ।। Baundule || Spandan|| Bengali",
+
+    thumbnailUrl:
+      "https://www.youtube.com/embed/CBfqi_nrif8?list=RDIvoa6EtFVPw",
+
+    likes: 256395,
+
+    views: 6952246,
+
+    channelName: "Baundule Official",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ytc/APkrFKaDbwo6X99ScPWh2WQsGbDJsl8u-z8OygxKKjMv=s88-c-k-c0x00ffffff-no-rj",
+  },
+  {
+    id: 10,
+
+    title:
+      "Ekla Nitai (একলা নিতাই) by Satyaki Banerjee (সাত্যকি ব্যানার্জি) | Dhaka International FolkFest 2018",
+
+    thumbnailUrl: "https://www.youtube.com/embed/IgeWk_B-ZAg",
+
+    likes: 1256395,
+
+    views: 69546,
+
+    channelName: "Dhaka International FolkFest",
+
+    channelLogoUrl:
+      "https://yt3.ggpht.com/ytc/APkrFKbryjyj_VVcvKX3C9A7UWy2UNTTFegUnbyTsrqV=s88-c-k-c0x00ffffff-no-rj",
+  },
 ];
 
 function App() {
